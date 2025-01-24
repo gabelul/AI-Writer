@@ -42,3 +42,4 @@ xmlschema
 moviepy
 googlesearch-python
 streamlit-aggrid
+chromadb==0.3.21
