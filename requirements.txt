@@ -4,6 +4,8 @@ rich
 python-dotenv
 loguru
 openai
+crewai
+pytubefix
 crewai[tools]
 crewai_tools
 python-docx
