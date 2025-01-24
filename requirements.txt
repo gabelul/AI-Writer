@@ -4,9 +4,8 @@ rich
 python-dotenv
 loguru
 openai
-crewai
+crewai==0.5.0
 pytubefix
-crewai[tools]
 crewai_tools
 python-docx
 PyPDF2
@@ -20,7 +19,7 @@ exa_py
 GoogleNews
 langchain-google-genai
 clint
-scikit-learn
+scikit-learn==1.2.2
 matplotlib
 plotly
 requests_html
